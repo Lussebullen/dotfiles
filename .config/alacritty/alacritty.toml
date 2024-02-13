@@ -1,0 +1,9 @@
+[window]
+startup_mode = "Maximized"
+opacity = 0.7
+title = "Terminal [Alacritty]"
+padding = { x = 1, y = 1 }
+
+[cursor]
+style = { shape = "Underline", blinking = "On" }
+blink_timeout = 0
