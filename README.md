@@ -12,4 +12,6 @@ Run ```setup.sh``` from linux_setup repository to install relevant programmes.
 ## Instructions
 go to home directory, clone this repository.
 cd into the ~/dotfiles directory
-run ```stow .```
+run:
+```stow --adopt .```
+```git restore .```
